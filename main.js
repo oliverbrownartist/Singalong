@@ -6,11 +6,11 @@ let textCurrent = "Press below to begin!";
 
 function preload(){
 
-    playlist1 = loadSound('assets/playlist1.wav');
-    playlist2 = loadSound('assets/playlist2.wav');
-    playlist3 = loadSound('assets/playlist3.wav');
-    playlist4 = loadSound('assets/playlist4.wav');
-    playlist5 = loadSound('assets/playlist5.wav');
+    playlist1 = loadSound('assets/playlist1.mp3');
+    playlist2 = loadSound('assets/playlist2.mp3');
+    playlist3 = loadSound('assets/playlist3.mp3');
+    playlist4 = loadSound('assets/playlist4.mp3');
+    playlist5 = loadSound('assets/playlist5.mp3');
 
 }
 
